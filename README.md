@@ -1,2 +1,0 @@
-# Aruna
-Python coding
